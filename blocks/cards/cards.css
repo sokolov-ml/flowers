@@ -6,7 +6,7 @@
 .cards {
   display: flex;
   flex-wrap: wrap;
-  justify-items: flex-start;
-  width: 920px;
+  /* width: 800px; */
   margin: 0 auto;
+  justify-content: space-around;
 }
