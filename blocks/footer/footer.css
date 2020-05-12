@@ -4,9 +4,9 @@
 @import url(./footer__column-links.css);
 @import url(./footer__column-heading.css);
 @import url(./footer__author.css);
-@import url(./_content/footer__column_content_social.css);
-@import url(./_content/footer__column_content_info.css);
-@import url(./_content/footer__column_content_copyright.css);
+@import url(./footer__column_content_social.css);
+@import url(./footer__column_content_info.css);
+@import url(./footer__column_content_copyright.css);
 @import url(./footer__column.css);
 @import url(./footer__columns.css);
 
